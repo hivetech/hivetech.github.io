@@ -1,60 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: startup | Hive Tech.]]></title>
+  <title><![CDATA[Category: startup | Hive Tech]]></title>
   <link href="http://hivetech.github.io/blog/categories/startup/atom.xml" rel="self"/>
   <link href="http://hivetech.github.io/"/>
-  <updated>2013-10-09T08:32:58+02:00</updated>
+  <updated>2013-10-24T02:11:01+02:00</updated>
   <id>http://hivetech.github.io/</id>
   <author>
-    <name><![CDATA[Hive Tech.]]></name>
-    <email><![CDATA[hivetech.root@gmail.com]]></email>
+    <name><![CDATA[Xavier Bruhiere]]></name>
+    <email><![CDATA[unide.team@gmail.com]]></email>
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
   
   <entry>
-    <title type="html"><![CDATA[Unide]]></title>
+    <title type="html"><![CDATA[Unide Logo]]></title>
     <link href="http://hivetech.github.io/blog/2013/09/14/unide/"/>
     <updated>2013-09-14T15:14:00+02:00</updated>
     <id>http://hivetech.github.io/blog/2013/09/14/unide</id>
-    <content type="html"><![CDATA[<p><img src="https://raw.github.com/hivetech/hivetech.github.io/master/images/logo-unide.png" alt="Unide" /></p>
+    <content type="html"><![CDATA[<p>Our new <strong>logo</strong> is born:</p>
 
-<h1>Preface</h1>
+<p><img src="https://raw.github.com/hivetech/hivetech.github.io/master/images/logo-unide.png" alt="Unide" /></p>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed quis nunc
-scelerisque, semper ipsum luctus, aliquam mauris. Aliquam ac mattis massa, ut
-bibendum neque. Nulla eu nunc non nunc sagittis placerat malesuada sit amet
-ipsum. Duis aliquet orci eget turpis consectetur lobortis. Nullam rhoncus,
-tellus eget imperdiet scelerisque, nulla tellus volutpat nisi, bibendum cursus
-felis ante sed risus. Pellentesque vulputate, quam eu tristique pulvinar, purus
-nisi interdum urna, et fringilla metus sem et purus. Aenean diam sapien,
-sodales quis ultrices eu, lobortis nec lacus. In in malesuada eros, nec aliquam
-lorem.</p>
-
-<h2>Paragraph 1</h2>
-
-<p>Nullam molestie mauris in mollis condimentum. Vestibulum mollis mollis massa
-non suscipit. Fusce id tellus lorem. Mauris vitae diam lobortis, semper neque
-in, accumsan turpis. Interdum et malesuada fames ac ante ipsum primis in
-faucibus. Curabitur quis mi eros. Donec non erat ut ante malesuada consequat et
-id tortor. Proin porttitor, erat eget sollicitudin venenatis, quam nulla
-imperdiet metus, quis bibendum mi velit a justo. Duis lobortis placerat congue.
-Curabitur convallis suscipit luctus. Vestibulum quis eros rutrum mi sagittis
-pretium. Etiam consectetur augue orci, quis convallis metus congue nec. Proin
-tellus sem, adipiscing vel elit in, auctor vehicula lectus. Ut sit amet libero
-porttitor, scelerisque dui sit amet, blandit felis. Phasellus nec elementum
-magna.</p>
-
-<h2>Paragraph 2</h2>
-
-<p>Curabitur laoreet, leo quis luctus condimentum, ante velit auctor lectus, eu
-tempor ligula neque vel lacus. Morbi in egestas eros. Curabitur posuere lacus
-ac nibh commodo pretium. Nam tristique velit id neque auctor, a fringilla lacus
-facilisis. Vestibulum aliquet neque nec libero elementum, sit amet ultrices
-risus accumsan. Aliquam viverra mi a quam gravida ultrices auctor vitae dolor.
-Morbi convallis, sapien non venenatis ultrices, justo velit porttitor dolor, at
-malesuada metus ligula nec arcu.</p>
+<p>The color combination depicts the way Unide’s purpose is to build a great
+<strong>community of crowdsourcing</strong> – the red part links up the “U” and “N” and
+reminds the infinity symbol – and the grey part allows the word IDE to appear
+which stands for Integrated Development Environment as Unide has the
+characteristics of an IDE but aims at <strong>embracing much more</strong>.</p>
 ]]></content>
   </entry>
   
